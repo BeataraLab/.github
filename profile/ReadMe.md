@@ -15,10 +15,10 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 ---
 - [beatara.com](https://github.com/BeataraLab/website)
 
-🎛️ **Music Projects**
+🎛️ **Web Applications**
 ---
-- [DAW Platform](https://github.com/BeataraLab/app-web)
+- [Beatara Web App](https://github.com/BeataraLab/app-web)
 
 📱 **Mobile Applications**
 ---
-- [Beatara Mobile](https://github.com/BeataraLab/app-mobile)
+- [Beatara Mobile App](https://github.com/BeataraLab/app-mobile)
