@@ -22,3 +22,7 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 📱 **Mobile Applications**
 ---
 - [Beatara Mobile App](https://github.com/BeataraLab/app-mobile)
+
+🧪 **Experiments**
+---
+- [web-audio-api-realtime-processing-performance](https://github.com/BeataraLab/web-audio-api-realtime-processing-performance)
